@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sunandasharma61/books-management-Project.git"
+    "url": "git+https://github.com/shivamshukla0912/books-management-Project.git"
   },
-  "author": "Sunanda Sharma , Rishika Singh, Ashish Ingle, Kartik Shrikhande",
+  "author": "Shivam Shukla",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/sunandasharma61/books-management-Project/issues"
+    "url": "https://github.com/shivamshukla0912/books-management-Project/issues"
   },
-  "homepage": "https://github.com/sunandasharma61/books-management-Project#readme",
+  "homepage": "https://github.com/shivamshukla0912/books-management-Project#readme",
   "dependencies": {
     "express": "^4.18.2",
     "jsonwebtoken": "^8.5.1",
